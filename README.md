@@ -1,7 +1,3 @@
-[![Hits](README.assets/badge.svgurl=https%253A%252F%252Fgithub.com%252Fjunwoo0127%252F&count_bg=%252379C83D&title_bg=%2523555555&icon=github-165579042868811.svg&icon_color=%2523E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 <div align="center">
 <h1 align="center">Hi 💀, I'm JunWoo</h1>
 <h4 align="center">🌳도전을 좋아하는 활발한 ENTP!🌳</h4>    
@@ -14,7 +10,7 @@
        alt="snake" /></a>
 </div>
 <div>
-  <summary>☎️ contact me</summary>
+  <h3>☎️ Contact me</h3>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -38,10 +34,8 @@
 </div>
 
 <div>
-  <summary>🧮 About</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2> 
-</div>
+  <h3>🧮 Action</h3>
+    <hr>
 </div>
 
 [![Solved.ac
@@ -49,8 +43,7 @@
 
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={junwoo0127}&theme=warm"/>
 
 
 
-[![Top Langs](README.assets/-165579049383313.assets)](https://github.com/junwoo0127/github-readme-stats)
+
