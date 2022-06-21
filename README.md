@@ -3,6 +3,7 @@
 <h4 align="center">🌳도전을 좋아하는 활발한 ENTP!🌳</h4>    
 </div>
 
+## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunwoo0127%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -37,11 +38,8 @@
   <h3>🧮 Action</h3>
     <hr>
 </div>
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo0127)](https://solved.ac/junwoo0127)
-
-
 
 
 
