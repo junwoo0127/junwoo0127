@@ -38,8 +38,10 @@
   <h3>🧮 Action</h3>
     <hr>
 </div>
+
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo0127)](https://solved.ac/junwoo0127)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo0127)](https://solved.ac/profile/junwoo0127)
 
 
 
