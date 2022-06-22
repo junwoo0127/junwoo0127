@@ -39,7 +39,7 @@
     <hr>
 </div>
 [![Solved.ac
-프로필](README.assets/generate_badge.svg+xml)](https://solved.ac/junwoo0127)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo0127)](https://solved.ac/junwoo0127)
 
 
 
